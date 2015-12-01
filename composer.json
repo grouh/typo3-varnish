@@ -1,0 +1,22 @@
+{
+    "name": "snowflake/varnish",
+    "description": "Varnish Connector. This extension is managed on GitHub. Feel free to get in touch at https://github.com/snowflakech/typo3-varnish/",
+    "autoload": {
+        "psr-4": {
+            "Snowflake\\Varnish\\": "Classes/"
+        }
+    },
+    "type": "typo3-cms-extension",
+    "keywords": ["TYPO3 CMS", "Varnish", "Cache"],
+    "homepage": "https://github.com/snowflakech/typo3-varnish/",
+    "license": "GPL-2.0+",
+    "version": "1.0.7",
+    "support": {
+        "issues": "https://forge.typo3.org/"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.7"
+        }
+    }
+}
