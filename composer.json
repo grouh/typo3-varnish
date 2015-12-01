@@ -1,5 +1,5 @@
 {
-    "name": "snowflake/varnish",
+    "name": "grouh/varnish",
     "description": "Varnish Connector. This extension is managed on GitHub. Feel free to get in touch at https://github.com/snowflakech/typo3-varnish/",
     "autoload": {
         "psr-4": {
